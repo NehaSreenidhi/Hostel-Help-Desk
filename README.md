@@ -33,7 +33,7 @@ This project uses **SQLite** as the local database to store users, complaints, a
 
 **Clone the repository**  
 ```bash
-git clone [https://github.com/yourusername/hostel-help-desk.git](https://github.com/NehaSreenidhi/Hostel-Help-Desk.git)
+git clone https://github.com/NehaSreenidhi/Hostel-Help-Desk.git
 ```
 **run**
 ```bash
